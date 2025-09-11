@@ -1,4 +1,4 @@
-# Multi-Class Classification on Geographical Polygons
+# Multi-Class Classification on Satellite Data
 
 ## Overview
 
